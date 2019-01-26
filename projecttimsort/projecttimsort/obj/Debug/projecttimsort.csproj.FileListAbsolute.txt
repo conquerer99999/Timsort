@@ -1,0 +1,6 @@
+c:\users\cv\documents\visual studio 2013\Projects\projecttimsort\projecttimsort\bin\Debug\projecttimsort.exe.config
+c:\users\cv\documents\visual studio 2013\Projects\projecttimsort\projecttimsort\bin\Debug\projecttimsort.exe
+c:\users\cv\documents\visual studio 2013\Projects\projecttimsort\projecttimsort\bin\Debug\projecttimsort.pdb
+c:\users\cv\documents\visual studio 2013\Projects\projecttimsort\projecttimsort\obj\Debug\projecttimsort.csprojResolveAssemblyReference.cache
+c:\users\cv\documents\visual studio 2013\Projects\projecttimsort\projecttimsort\obj\Debug\projecttimsort.exe
+c:\users\cv\documents\visual studio 2013\Projects\projecttimsort\projecttimsort\obj\Debug\projecttimsort.pdb
